@@ -26,5 +26,5 @@
 <a href="https://www.instagram.com/davilealcosta/" target="_blank"><img alt="instagram-shiels" src="https://img.shields.io/badge/-INSTAGRAM-%23ff8ce8?style=for-the-badge&logo=instagram"></a>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSom-v5PoqfGiFYqy-rQ0C2umKe8DACPmSGn_bJr1SKTj_mB7QFYoBzTN1v0PTYpOb3hyI&usqp=CAU" alt="cat-coding" style="width: 200px;">
+  <a href="https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=790b7611dc539c70f2fe328d9729c9e169763b971ebf9bea&rid=giphy.gif&ct=g"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSom-v5PoqfGiFYqy-rQ0C2umKe8DACPmSGn_bJr1SKTj_mB7QFYoBzTN1v0PTYpOb3hyI&usqp=CAU" alt="cat-coding" style="width: 200px;"></a>
 </p>
